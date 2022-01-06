@@ -1,4 +1,4 @@
-{
+ {
     json: [
         {
             fn: '/',
@@ -726,19 +726,159 @@
             dt: 'Third Party'
         }
     ],
-    onLoadTime:1746,
-    onContentLoadTime:1601,
-    mainURLResponseTime:28.83,
-    mainURLDNSTime:0.0,
-    mainURLConnectTime:8.58,
-    mainURLWaitTime:8.09,
-    mainURLContentTime:12.16,
-    NUM_RECORDS:29,
-    browserCache:0,
-    redirectURLCount:0,
-    redirectTotalTime:0,
-    hostNum:5,
-    downloadBytes:2092456
+    onLoadTime: 1746,
+    onContentLoadTime: 1601,
+    mainURLResponseTime: 28.83,
+    mainURLDNSTime: 0.0,
+    mainURLConnectTime: 8.58,
+    mainURLWaitTime: 8.09,
+    mainURLContentTime: 12.16,
+    NUM_RECORDS: 29,
+    browserCache: 0,
+    redirectURLCount: 0,
+    redirectTotalTime: 0,
+    hostNum: 5,
+    downloadBytes: 2092456,
+    arrURLBlockedBar: [
+        'fonts.gstatic.com',
+        '10.10.70.99:32677',
+        '10.10.70.99:32677',
+        '10.10.70.99:32677',
+        '10.10.70.99:32677'
+    ],
+    arrURLBlocked:[
+            '/s/poppins/v15/pxiByp8kv8JHgFVrLGT9V1g.woff',
+            '/assets/js/vue.js',
+            '/css/bootstrap-theme.css',
+            '/assets/js/jquery.shCircleLoader-min.js',
+            '/assets/fonts/fontawesome-webfont.woff2?v=4.6.3'
+    ],
+    arrBlockedScale: [
+        '80.0',
+        '5.292936248350261',
+        '1.33126757330579',
+        '0.3488839157628967',
+        '0.3351121822459402'
+    ],
+    arrBlockedBar: [
+        '174.27',
+        '11.53',
+        '2.9',
+        '0.76',
+        '0.73'
+    ],
+    arrURLDNSLookUpBar: [
+        'fonts.gstatic.com',
+        'fonts.googleapis.com',
+        '10.10.70.99:32677',
+        '10.10.70.99:32677',
+        '10.10.70.99:32677'
+    ],
+    arrURLDNS: [
+        '/s/poppins/v15/pxiEyp8kv8JHgFVrFJM.woff',
+        '/css2?family=Poppins:wght@400;500&display=swap',
+        '/assets/css/amazeui.min.css',
+        '/assets/css/admin.css',
+        '/assets/css/app.css'
+    ],
+    arrDNSLookUpBarScale: [
+        '80.0',
+        '4.721223021582734',
+        '0.008992805755395685',
+        '0.008992805755395685',
+        '0.008992805755395685'
+    ],
+    arrDNSLookUpBar: [
+        '88.96',
+        '5.25',
+        '0.01',
+        '0.01',
+        '0.01'
+    ],
+    arrURLConnectBar: [
+        'fonts.gstatic.com',
+        'fonts.googleapis.com',
+        '10.10.70.99:32677',
+        '10.10.70.99:32677',
+        '10.10.70.99:32677'
+    ],
+    arrURLConnect: [
+        '/s/poppins/v15/pxiEyp8kv8JHgFVrFJM.woff',
+        '/css2?family=Poppins:wght@400;500&display=swap',
+        '/',
+        '/assets/css/amazeui.min.css',
+        '/assets/css/admin.css'
+    ],
+    arrConnectScale: [
+        '80.0',
+        '76.81657640687544',
+        '8.080998351777726',
+        '7.854956439839887',
+        '7.807864374852837'
+    ],
+    arrConnectBar: [
+        '84.94',
+        '81.56',
+        '8.58',
+        '8.34',
+        '8.29'
+    ],
+    arrURLWaitBar: [
+        'fonts.googleapis.com',
+        '10.10.70.99:32677',
+        '10.10.70.99:32677',
+        '10.10.70.99:32677',
+        '10.10.70.99:32677'
+    ],
+    arrURLWait: [
+        '/css2?family=Poppins:wght@400;500&display=swap',
+        '/api/v1/verifycode/generate',
+        '/api/v1/verifycode/generate',
+        '/assets/css/client.css',
+        '/assets/css/app.css'
+    ],
+    arrWaitScale: [
+        '80.0',
+        '10.585840307622709',
+        '10.223931237276634',
+        '9.852974440171907',
+        '9.518208550101786'
+    ],
+    arrWaitBar: [
+        '88.42',
+        '11.7',
+        '11.3',
+        '10.89',
+        '10.52'
+    ],
+    arrURLLoadBar: [
+        '10.10.70.99:32677',
+        '10.10.70.99:32677',
+        'fonts.gstatic.com',
+        'fonts.gstatic.com',
+        '10.10.70.99:32677'
+    ],
+    arrURLLoad: [
+        '/assets/img/user01.png',
+        '/assets/fonts/fontawesome-webfont.woff2?v=4.6.3',
+        '/s/poppins/v15/pxiEyp8kv8JHgFVrFJM.woff',
+        '/s/poppins/v15/pxiByp8kv8JHgFVrLGT9V1g.woff',
+        '/assets/img/logo.png'
+    ],
+    arrLoadScale: [
+        '80.0',
+        '61.473648083399475',
+        '58.68336944164397',
+        '57.97464553079216',
+        '52.589716639138544'
+    ],
+    arrLoadBar: [
+        '466.19',
+        '358.23',
+        '341.97',
+        '337.84',
+        '306.46'
+    ]
 
 
 }
